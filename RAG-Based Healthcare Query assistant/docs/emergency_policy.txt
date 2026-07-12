@@ -1,0 +1,245 @@
+. PURPOSE
+
+The purpose of this Hospital Emergency Care Policy is to establish standardized procedures for providing immediate, effective, and high-quality emergency medical care to patients presenting to the Emergency Department (ED). This policy aims to ensure rapid assessment, timely treatment, stabilization, and appropriate disposition of emergency patients while maintaining patient safety, ethical medical practice, and compliance with applicable healthcare regulations.
+
+The objectives of this policy are to:
+
+Ensure prompt assessment and treatment of emergency patients.
+Prioritize care according to the severity of the patient's condition.
+Provide life-saving interventions without unnecessary delay.
+Maintain continuity of care from arrival through discharge or admission.
+Promote patient safety and quality healthcare services.
+Ensure compliance with legal, ethical, and accreditation requirements.
+Support effective communication among emergency care providers.
+2. SCOPE
+
+This policy applies to all personnel and patients involved in emergency medical services within the hospital.
+
+The policy covers:
+
+Emergency Department Physicians
+Emergency Medicine Specialists
+Nurses
+Emergency Medical Technicians (EMTs)
+Paramedics
+Ambulance Services
+Laboratory Services
+Radiology Department
+Pharmacy Department
+Patient Administration Staff
+Security Personnel
+Support Staff
+All patients requiring emergency medical evaluation or treatment
+
+This policy applies regardless of the patient's age, insurance status, nationality, or financial condition.
+
+3. EMERGENCY TRIAGE
+
+Every patient arriving at the Emergency Department shall undergo an immediate triage assessment performed by qualified healthcare personnel.
+
+The purpose of triage is to rapidly assess the patient's condition, identify life-threatening emergencies, and determine the priority for medical treatment.
+
+Patients shall be classified into one of the following priority levels:
+
+Critical Priority
+
+Immediate life-threatening conditions requiring emergency intervention.
+Examples include cardiac arrest, severe trauma, respiratory failure, stroke, severe bleeding, or unconscious patients.
+
+High Priority
+
+Serious medical conditions that require urgent evaluation and treatment but are not immediately life-threatening.
+Examples include severe chest pain, fractures with deformity, significant burns, or severe infections.
+
+Moderate Priority
+
+Stable patients requiring medical attention within a reasonable timeframe.
+Examples include moderate injuries, dehydration, abdominal pain, or fever requiring further investigation.
+
+Low Priority
+
+Minor illnesses or injuries that do not pose an immediate risk to life.
+Examples include minor wounds, mild infections, or non-urgent medical complaints.
+
+Patients with life-threatening conditions shall always receive immediate medical attention regardless of registration, payment, or insurance status.
+
+4. EMERGENCY ADMISSION
+
+Patients requiring hospitalization after emergency evaluation shall be admitted without unnecessary delay.
+
+The admission process shall include:
+
+Initial medical assessment.
+Stabilization of the patient's condition.
+Consultation with the appropriate specialist where required.
+Assignment of an appropriate hospital bed or intensive care unit when necessary.
+Completion of admission documentation after stabilization whenever possible.
+
+Administrative procedures such as patient registration, insurance verification, and payment formalities shall not delay emergency treatment.
+
+The hospital shall prioritize medical necessity over administrative requirements in all emergency situations.
+
+5. MEDICAL TREATMENT
+
+Emergency physicians shall provide immediate evaluation and treatment based on the patient's clinical condition and established medical guidelines.
+
+Emergency medical care may include:
+
+Physical examination.
+Vital sign monitoring.
+Emergency medications.
+Intravenous fluid therapy.
+Oxygen therapy.
+Airway management.
+Cardiopulmonary resuscitation (CPR).
+Cardiac monitoring.
+Diagnostic laboratory investigations.
+Radiological imaging such as X-rays, CT scans, MRI, or Ultrasound.
+Blood transfusions when medically necessary.
+Emergency surgical procedures.
+Pain management.
+Stabilization before transfer or admission.
+
+All emergency treatment shall be documented accurately in the patient's medical record.
+
+6. CONSENT
+
+Whenever possible, informed consent shall be obtained before performing medical procedures or treatment.
+
+The treating physician shall explain:
+
+The patient's medical condition.
+Proposed treatment.
+Expected benefits.
+Potential risks.
+Available alternatives where appropriate.
+
+If the patient is unconscious, mentally incapacitated, or otherwise unable to provide consent, consent shall be obtained from a legally authorized representative whenever feasible.
+
+In life-threatening emergencies where obtaining consent would delay essential treatment, emergency care may proceed in accordance with accepted medical ethics, applicable laws, and hospital policies.
+
+All consent decisions shall be documented appropriately.
+
+7. AMBULANCE SERVICES
+
+Patients arriving by ambulance shall receive immediate transfer to the Emergency Department.
+
+The ambulance team shall provide a structured handover including:
+
+Patient identification.
+Presenting complaint.
+Medical history.
+Allergies.
+Current medications.
+Vital signs.
+Treatment provided before arrival.
+Emergency procedures performed.
+Time of symptom onset where relevant.
+
+The receiving emergency team shall verify the information and assume responsibility for continued patient care.
+
+Hospital ambulance services shall comply with established emergency transport protocols and patient safety standards.
+
+8. INFECTION CONTROL
+
+All emergency department personnel shall strictly comply with hospital infection prevention and control policies.
+
+Infection control measures include:
+
+Proper hand hygiene.
+Appropriate use of Personal Protective Equipment (PPE).
+Safe disposal of medical waste.
+Cleaning and disinfection of equipment.
+Isolation of patients with suspected or confirmed infectious diseases.
+Respiratory hygiene measures.
+Compliance with standard, contact, droplet, and airborne precautions where applicable.
+
+The hospital shall ensure adequate availability of infection control supplies and protective equipment.
+
+9. TRANSFER OF PATIENTS
+
+Patients requiring specialized treatment unavailable at the hospital may be transferred to another healthcare facility.
+
+Prior to transfer:
+
+The patient shall be medically stabilized whenever possible.
+The receiving healthcare facility shall accept the transfer.
+Appropriate transportation shall be arranged.
+Necessary medical personnel shall accompany the patient when required.
+Copies of relevant medical records shall accompany the patient.
+
+The transfer documentation shall include:
+
+Patient identification.
+Clinical diagnosis.
+Treatment provided.
+Laboratory and imaging reports.
+Current medications.
+Reason for transfer.
+Physician referral notes.
+
+Patient safety shall remain the highest priority throughout the transfer process.
+
+10. DISCHARGE FROM EMERGENCY
+
+Patients who do not require hospital admission may be discharged from the Emergency Department after medical evaluation.
+
+Before discharge, patients shall receive:
+
+Diagnosis summary.
+Medical treatment provided.
+Prescribed medications.
+Home care instructions.
+Wound care instructions where applicable.
+Activity recommendations.
+Follow-up appointment details.
+Warning signs requiring immediate medical attention.
+Emergency contact information.
+
+The treating physician shall ensure that the patient understands all discharge instructions before leaving the hospital.
+
+11. PATIENT RESPONSIBILITIES
+
+Patients and their attendants are expected to cooperate with hospital staff throughout emergency treatment.
+
+Their responsibilities include:
+
+Providing accurate personal and medical information.
+Informing healthcare providers about allergies, medications, and existing medical conditions.
+Following instructions provided by emergency staff.
+Cooperating during medical examinations and treatment.
+Respecting hospital personnel, other patients, and hospital property.
+Maintaining appropriate behavior within the Emergency Department.
+Providing updated contact information.
+Informing staff immediately of any changes in the patient's condition.
+
+Failure to provide accurate information may affect the quality and safety of emergency medical care.
+
+12. CONFIDENTIALITY
+
+All medical information collected during emergency treatment shall remain confidential and shall be protected in accordance with hospital privacy policies and applicable laws.
+
+Patient information may only be disclosed to:
+
+Authorized healthcare professionals involved in patient care.
+Insurance providers where authorized.
+Government authorities when legally required.
+Legal representatives with appropriate authorization.
+Family members only with patient consent or where permitted by applicable law.
+
+All emergency medical records shall be securely stored and protected against unauthorized access.
+
+13. POLICY REVIEW
+
+This Hospital Emergency Care Policy shall be reviewed annually by the Emergency Medicine Department and Hospital Administration to ensure compliance with current medical standards, healthcare regulations, accreditation requirements, and operational best practices.
+
+The annual review shall include:
+
+Evaluation of emergency response procedures.
+Assessment of patient safety outcomes.
+Review of triage effectiveness.
+Analysis of emergency treatment quality indicators.
+Updates based on current clinical guidelines and regulatory changes.
+Recommendations for continuous improvement in emergency care services.
+
+Any revisions to this policy shall be approved by Hospital Administration before implementation and communicated to all relevant departments.

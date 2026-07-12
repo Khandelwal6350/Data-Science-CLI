@@ -1,0 +1,216 @@
+1. PURPOSE
+
+The purpose of this Hospital Insurance Policy is to establish standardized procedures for insurance verification, claim processing, pre-authorization, reimbursement, and financial responsibilities for patients receiving healthcare services under medical insurance coverage. This policy aims to ensure a transparent, efficient, and compliant insurance claim process while minimizing delays in patient care and improving coordination between the hospital, patients, and insurance providers.
+
+The objectives of this policy are to:
+
+Verify insurance eligibility before treatment whenever possible.
+Facilitate timely processing of insurance claims.
+Ensure accurate submission of insurance-related documentation.
+Clearly define the financial responsibilities of insured patients.
+Improve communication between the hospital and insurance providers.
+Maintain compliance with healthcare regulations and insurance requirements.
+Protect the confidentiality of patient insurance information.
+2. SCOPE
+
+This policy applies to all patients receiving healthcare services under an eligible health insurance plan.
+
+The policy covers:
+
+Inpatients
+Outpatients
+Emergency patients
+Day-care procedure patients
+Cashless insurance claims
+Reimbursement insurance claims
+Corporate health insurance programs
+Government-sponsored healthcare insurance schemes
+Private health insurance policies
+
+This policy shall be followed by:
+
+Insurance and Claims Department
+Patient Administration Department
+Billing and Finance Department
+Treating Physicians
+Nursing Department
+Medical Records Department
+Third-Party Administrator (TPA) Coordination Team
+3. INSURANCE ELIGIBILITY
+
+Patients intending to use health insurance benefits must provide complete and valid insurance information during registration or admission.
+
+Required documents include:
+
+Valid Health Insurance Card.
+Government-issued Identity Proof.
+Insurance Policy Number.
+Policy Holder Details.
+Authorization Letter, where applicable.
+Employer Identification (for corporate insurance plans).
+Referral documents, if required by the insurance provider.
+Any additional documentation requested by the insurance company.
+
+The hospital shall verify the patient's insurance eligibility, policy validity, coverage limits, exclusions, and network status before initiating the insurance claim process whenever feasible.
+
+Insurance verification does not guarantee approval of every medical expense.
+
+4. CASHLESS TREATMENT
+
+Cashless treatment shall be available only for insurance providers or Third-Party Administrators (TPAs) that have an active agreement with the hospital.
+
+The cashless treatment process includes:
+
+Verification of insurance eligibility.
+Submission of required medical records.
+Submission of pre-authorization requests where applicable.
+Approval by the insurance provider or TPA.
+Communication of approved coverage to the patient.
+
+Cashless admission is subject to:
+
+Policy terms and conditions.
+Coverage limits.
+Medical necessity.
+Approval from the insurance provider.
+
+In emergency situations, medically necessary treatment shall begin immediately while insurance authorization is processed concurrently whenever permitted.
+
+The hospital cannot guarantee approval of cashless claims by the insurance provider.
+
+5. PRE-AUTHORIZATION
+
+Certain medical procedures require prior approval from the insurance company before treatment begins.
+
+Examples include:
+
+Major surgical procedures.
+Intensive Care Unit (ICU) admissions.
+Organ transplantation.
+High-cost diagnostic investigations.
+Advanced imaging procedures.
+Specialized treatments.
+Long-term hospitalization.
+Expensive medications and implants.
+
+The Insurance Department shall submit all required medical documents to the insurance provider for review.
+
+In life-threatening emergencies, immediate treatment shall not be delayed while pre-authorization is pending. Insurance approval shall be obtained as soon as reasonably possible after stabilization.
+
+6. PATIENT RESPONSIBILITIES
+
+Patients utilizing insurance benefits are responsible for:
+
+Providing accurate and complete insurance information.
+Presenting valid insurance documents during admission.
+Informing the hospital of any policy changes, renewals, or cancellations.
+Cooperating during insurance verification and claim processing.
+Providing additional documents requested by the insurance provider.
+Paying all charges not covered under the insurance policy.
+Paying deductibles, co-payments, and policy excess amounts where applicable.
+Reviewing insurance approvals and exclusions before discharge.
+
+Providing false, incomplete, or misleading insurance information may result in claim rejection and full financial responsibility for hospital charges.
+
+7. NON-COVERED EXPENSES
+
+Certain hospital expenses may not be covered under the patient's insurance policy.
+
+Examples include:
+
+Cosmetic or elective procedures not medically indicated.
+Personal comfort items.
+Telephone, television, and internet services.
+Private room upgrades exceeding policy limits.
+Companion accommodation charges.
+Non-prescribed medications.
+Consumable items excluded by the policy.
+Experimental or investigational treatments.
+Services specifically excluded under the insurance contract.
+
+The patient shall be solely responsible for payment of all non-covered expenses.
+
+The hospital shall inform patients whenever possible regarding anticipated non-covered charges before treatment.
+
+8. CLAIM PROCESSING
+
+The Insurance and Claims Department shall manage the insurance claim process by:
+
+Verifying insurance eligibility.
+Reviewing policy coverage.
+Preparing insurance documentation.
+Collecting required medical records.
+Coordinating with physicians for clinical documentation.
+Submitting claims to insurance providers or TPAs.
+Tracking claim approval status.
+Communicating updates to patients.
+Coordinating claim settlement after discharge.
+
+Processing time varies depending on the insurance provider, policy requirements, and completeness of submitted documentation.
+
+The hospital shall make reasonable efforts to facilitate timely claim processing but cannot guarantee approval timelines determined by the insurer.
+
+9. CLAIM REJECTION
+
+Insurance claims may be rejected for various reasons, including but not limited to:
+
+Expired or inactive insurance policy.
+Policy exclusions.
+Incomplete or inaccurate documentation.
+Incorrect patient or policy information.
+Failure to obtain required pre-authorization.
+Medical services not covered under the policy.
+Waiting period restrictions.
+Non-disclosure of pre-existing medical conditions where required.
+Fraudulent or misleading information.
+
+If a claim is rejected, the patient shall be informed of the reason for rejection.
+
+Any outstanding hospital charges resulting from claim denial shall become the responsibility of the patient unless otherwise determined by the insurance provider.
+
+10. REIMBURSEMENT CLAIMS
+
+For reimbursement-based insurance policies, patients shall settle the hospital bill at the time of discharge and subsequently submit the necessary documents directly to their insurance provider.
+
+The hospital shall provide the following documents for reimbursement purposes:
+
+Final Hospital Invoice.
+Payment Receipt.
+Discharge Summary.
+Medical Reports.
+Laboratory Investigation Reports.
+Radiology Reports.
+Prescriptions.
+Operation Notes, where applicable.
+Implant Stickers or Device Details, where required.
+Any additional documents reasonably required by the insurance provider.
+
+The hospital is responsible for providing accurate documentation but is not responsible for reimbursement decisions made by the insurance company.
+
+11. CONFIDENTIALITY
+
+The hospital shall maintain strict confidentiality of all insurance records and claim-related documentation.
+
+Insurance information shall be:
+
+Stored securely.
+Accessible only to authorized personnel.
+Shared only with authorized insurance providers or TPAs.
+Released to government authorities only when legally required.
+Protected in accordance with applicable privacy laws and hospital confidentiality policies.
+
+Hospital employees handling insurance information shall comply with all data protection and confidentiality requirements.
+
+12. POLICY REVIEW
+
+This Hospital Insurance Policy shall be reviewed annually by the Insurance and Claims Department together with Hospital Administration to ensure compliance with current healthcare regulations, insurance industry standards, contractual requirements, and operational best practices.
+
+The annual review shall include:
+
+Evaluation of insurance claim procedures.
+Review of claim approval and rejection trends.
+Assessment of regulatory compliance.
+Updates based on changes in insurance provider requirements.
+Recommendations for improving claim efficiency, patient communication, and operational effectiveness.
+
+All policy revisions shall be approved by Hospital Administration before implementation and communicated to all relevant departments.
